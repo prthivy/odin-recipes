@@ -1,0 +1,20 @@
+body {
+    background-color: #64e58d;
+}
+
+.greethead {
+    color: #f8714b;
+    text-align: center;
+    font-size: 50px ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    ;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    font-family: 'Segoe UI', Geneva, Verdana, sans-serif;
+    font-weight: 400;
+}
+
+
