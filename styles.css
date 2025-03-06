@@ -3,6 +3,9 @@ body {
     background-color: #64e58d;
 }
 
+.homebutton {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Tahoma, Geneva, Verdana, sans-serif, 'Arial Narrow', Arial, sans-serif;
+}
 
 /*heading style*/
 .greethead {
