@@ -7,15 +7,20 @@ a {
     color: black;
 }
 
+body {
+    background-color: #fff8e7;
+}
+
 /*heading style*/
 .greethead {
     width: 200px;
     color: #000000;
     font-size: 50px;
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    text-align: center;
     padding: 10px;
     border: 2px solid black;
-    margin: 10 auto;
+    margin: 10px auto;
  
 }
 
@@ -53,8 +58,10 @@ img.home-img
 .recipe-list {
     list-style-type: none;
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-    font-size: xx-large;
-    text-align: center;    
+    font-size: 40px;
+    text-align: center;
+    color: #2d2d2d;    
+    padding: 0px;
 }
 
 .homebutton {
@@ -64,18 +71,21 @@ img.home-img
     margin: 10px auto;
     border: 1px solid black;
     padding: 2px;
+    background-color: #478C80;
+    color: white;
 }
 
 .recipe-card {
     padding: 5px 5px 30px 5px;
-    border: 4px dashed lightgreen;
+    border: 4px dashed rgb(1, 149, 1);
     margin: 10px;
+    background-color: #ffffff;
     
 }
 
 .recipe-title {
     width: 500px;
-    color: #000000;
+    color: #2d2d2d;
     font-size: 40px;
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     padding: 10px;
